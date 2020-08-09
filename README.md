@@ -106,3 +106,30 @@ Muhammad Ali (/ɑːˈliː/;[3] born Cassius Marcellus Clay Jr.;[4] January 17, 1
 /wiki/U.S._state
  we have stucked in a loop
 ```
+
+- ### test case (successful to philosophy )
+- link : https://en.wikipedia.org/wiki/Islam
+```
+Islam (/ˈɪslɑːm/;[A] Arabic: اَلْإِسْلَامُ‎, romanized: al-’Islām, [ɪsˈlaːm] (About this soundlisten) "submission [to God]")[1] is an Abrahamic monotheistic religion that teaches that Muhammad is a messenger of God.[2][3] It is the world's second-largest religion with over 1.8 billion followers or 24.1% of the world's population,[4] known as Muslims.[5] Muslims make up a majority of the population in 49 countries.[6] Islam teaches that God is merciful, all-powerful, and unique,[7] and has guided mankind through prophets, revealed scriptures, and natural signs.[3][8] The primary scriptures of Islam are the Quran, believed to be the verbatim word of God, as well as the teachings and normative examples (called the sunnah, composed of accounts called hadith) of Muhammad (c. 570 – 8 June 632 CE).[9]
+```
+- result 
+```
+/wiki/Abrahamic_religions
+/wiki/Semitic_people
+/wiki/Historical_race_concepts
+/wiki/Race_(classification_of_human_beings)
+/wiki/Human
+/wiki/Primates
+/wiki/Eutheria
+/wiki/Clade
+/wiki/Organism
+/wiki/Biology
+/wiki/Natural_science
+/wiki/Branches_of_science
+/wiki/Empirical
+/wiki/Information
+/wiki/Uncertainty
+/wiki/Epistemic
+/wiki/Philosophy
+ we have reached philosophy
+```
