@@ -90,12 +90,10 @@ In common usage, a physical object or physical body (or simply a object or body)
  we have reached philosophy
 ```
 
-- ### test case (successfully reached philosophy)
+- ### test case (loop )
 - link : https://en.wikipedia.org/wiki/Muhammad_Ali
 ```
-Muhammad Ali (/ɑːˈliː/;[4] born Cassius Marcellus Clay Jr.;[5] January 17, 1942 – June 3, 2016) was an American professional boxer, activist, and philanthropist. He is nicknamed "The Greatest" and is widely regarded as one of the most significant and celebrated sports figures of the 20th century and as one of the greatest boxers of all time.
-
-Ali was born and raised in Louisville, Kentucky, and began training as an amateur boxer at age 12. At 18, he won a gold medal in the light heavyweight division at the 1960 Summer Olympics, and turned professional later that year. He converted to Islam and became a Muslim after 1961, and eventually took the name Muhammad Ali. He won the world heavyweight championship from Sonny Liston in a major upset at age 22 in 1964. In 1966, Ali refused to be drafted into 
+Muhammad Ali (/ɑːˈliː/;[3] born Cassius Marcellus Clay Jr.;[4] January 17, 1942 – June 3, 2016) was an American professional boxer, activist, and philanthropist. Nicknamed "The Greatest", he is widely regarded as one of the most significant and celebrated sports figures of the 20th century and as one of the greatest boxers of all time.
 ```
 - result 
 ```
@@ -104,17 +102,7 @@ Ali was born and raised in Louisville, Kentucky, and began training as an amateu
 /wiki/Kentucky
 /wiki/U.S._state
 /wiki/United_States
-/wiki/Country
-/wiki/Political_geography
-/wiki/Politics
-/wiki/Decision-making
-/wiki/Psychology
-/wiki/Science
-/wiki/Knowledge
-/wiki/Fact
-/wiki/Reality
-/wiki/Object_of_the_mind
-/wiki/Object_(philosophy)
-/wiki/Philosophy
- we have reached philosophy
+/wiki/Contiguous_United_States
+/wiki/U.S._state
+ we have stucked in a loop
 ```
