@@ -22,33 +22,27 @@ for example:
 - link : https://en.wikipedia.org/wiki/Egypt
 - in egypt first non parenthized not red outgoing link is (north africa)
 ```
-Egypt (/ˈiːdʒɪpt/ (About this soundlisten) EE-jipt; Arabic: مِصر‎ Miṣr, Egyptian Arabic: مَصر‎ Maṣr, Coptic: Ⲭⲏⲙⲓ Khēmi), officially the Arab Republic of Egypt, is a country spanning the northeast corner of Africa and southwest corner of Asia by a land bridge formed by the Sinai Peninsula. Egypt is a Mediterranean country bordered by the Gaza Strip and Israel to the northeast, the Gulf of Aqaba and the Red Sea to the east, Sudan to the south, and Libya to the west. Across the Gulf of Aqaba lies Jordan, across the Red Sea lies Saudi Arabia, and across the Mediterranean lie Greece, Turkey and Cyprus, although none share a land border with Egypt.
+Egypt (/ˈiːdʒɪpt/ (About this soundlisten) EE-jipt; Arabic: مِصر‎ Miṣr), officially the Arab Republic of Egypt, is a transcontinental country spanning the northeast corner of Africa and southwest corner of Asia by a land bridge formed by the Sinai Peninsula. Egypt is a Mediterranean country bordered by the Gaza Strip (Palestine) and Israel to the northeast, the Gulf of Aqaba and the Red Sea to the east, Sudan to the south, and Libya to the west. Across the Gulf of Aqaba lies Jordan, across the Red Sea lies Saudi Arabia, and across the Mediterranean lie Greece, Turkey and Cyprus, although none share a land border with Egypt.
 ```
 - result 
 ```
-/wiki/North_Africa
-/wiki/Africa
+/wiki/List_of_transcontinental_countries
 /wiki/Continent
 /wiki/Landmass
 /wiki/Land
 /wiki/Earth
 /wiki/Planet
 /wiki/Astronomical_body
-/wiki/Physical_body
-/wiki/3-dimensional_space
-/wiki/Dimension
-/wiki/Physics
+/wiki/Astronomy
 /wiki/Natural_science
 /wiki/Branches_of_science
-/wiki/Science
-/wiki/Knowledge
-/wiki/Fact
-/wiki/Reality
-/wiki/Object_of_the_mind
-/wiki/Object_(philosophy)
+/wiki/Empirical
+/wiki/Information
+/wiki/Uncertainty
+/wiki/Epistemic
 /wiki/Philosophy
  we have reached philosophy
-```
+ ```
 - ### test case (page with no outgoing links)
 - link : https://en.wikipedia.org/wiki/Association_of_Governing_Boards_of_Universities_and_Colleges
 ```
