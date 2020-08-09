@@ -52,7 +52,7 @@ Established in 1921, the Association of Governing Boards of Universities and Col
 ```
 page has no outgoing links
 ```
-- ### test case (page with redlink as the first link)
+- ### test case (page with redlink as the first link) (and this case has a loop)
 - link : https://en.wikipedia.org/wiki/Wikipedia:Red_link
 - first red link ignored and choose the link after it
 ```
@@ -90,21 +90,6 @@ In common usage, a physical object or physical body (or simply a object or body)
  we have reached philosophy
 ```
 
-- ### test case (page with loop)
-- link : https://en.wikipedia.org/wiki/Football
-```
-Football is a family of team sports that involve, to varying degrees, kicking a ball to score a goal. Unqualified, the word football is understood to refer to whichever form of football is the most popular in the regional context in which the word appears. Sports commonly called football in certain places include association football (known as soccer in some countries); 
-```
-- result 
-```
-/wiki/Team_sport
-/wiki/Sport
-/wiki/Competition
-/wiki/Rivalry
-/wiki/Competitive
-/wiki/Rivalry
- we have stucked in a loop
-```
 - ### test case (successfully reached philosophy)
 - link : https://en.wikipedia.org/wiki/Muhammad_Ali
 ```
