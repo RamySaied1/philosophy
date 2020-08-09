@@ -51,7 +51,8 @@ Egypt (/ˈiːdʒɪpt/ (About this soundlisten) EE-jipt; Arabic: مِصر‎ Mi�
 ```
 - ### test case (page with no outgoing links)
 - link : https://en.wikipedia.org/wiki/Association_of_Governing_Boards_of_Universities_and_Colleges
-```Established in 1921, the Association of Governing Boards of Universities and Colleges (AGB) is the premier organization focused on empowering college, university, and foundation boards to govern with knowledge and confidence. Governing boards in higher education must focus now more than ever on strategic leadership of their institutions and foundations to ensure institutional vitality and student success. It is critical they reinforce the value of higher education, innovate through the effective use of technology, and serve the needs of a shifting demographic. AGB provides leadership and counsel to member boards, chief executives, organizational staff, policymakers, and other key industry leaders to help navigate the changing education landscape.
+```
+Established in 1921, the Association of Governing Boards of Universities and Colleges (AGB) is the premier organization focused on empowering college, university, and foundation boards to govern with knowledge and confidence. Governing boards in higher education must focus now more than ever on strategic leadership of their institutions and foundations to ensure institutional vitality and student success. It is critical they reinforce the value of higher education, innovate through the effective use of technology, and serve the needs of a shifting demographic. AGB provides leadership and counsel to member boards, chief executives, organizational staff, policymakers, and other key industry leaders to help navigate the changing education landscape.
 ```
 - result 
 ```
