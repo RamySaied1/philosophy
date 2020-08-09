@@ -50,10 +50,8 @@ Egypt (/ˈiːdʒɪpt/ (About this soundlisten) EE-jipt; Arabic: مِصر‎ Mi�
  we have reached philosophy
 ```
 - ### test case (page with no outgoing links)
-- link : https://en.wikipedia.org/wiki/Akeno_Observatory
-```Akeno Observatory is a cosmic ray observatory located in Akeno, a town in Yamanashi prefecture, Japan. The observatory is run by the Institute for Cosmic Ray Research (ICRR), based at the University of Tokyo[1]. Akeno Observatory features AGASA, the Akeno Giant Air Shower Array, which studies the origins of very high energy cosmic rays[2].
-
-Construction of the observatory began in 1975, and in 1977 it became the second attached institution with ICRR. Its accomplishments include the observation of a super high energy cosmic ray air shower in 1995 that was previously thought to be impossible[3].
+- link : https://en.wikipedia.org/wiki/Association_of_Governing_Boards_of_Universities_and_Colleges
+```Established in 1921, the Association of Governing Boards of Universities and Colleges (AGB) is the premier organization focused on empowering college, university, and foundation boards to govern with knowledge and confidence. Governing boards in higher education must focus now more than ever on strategic leadership of their institutions and foundations to ensure institutional vitality and student success. It is critical they reinforce the value of higher education, innovate through the effective use of technology, and serve the needs of a shifting demographic. AGB provides leadership and counsel to member boards, chief executives, organizational staff, policymakers, and other key industry leaders to help navigate the changing education landscape.
 ```
 - result 
 ```
