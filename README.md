@@ -1,4 +1,4 @@
-# GetPhilo
+# philosophy
 a Python script to check the "Getting to Philosophy" law.
 https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy
 
